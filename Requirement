@@ -1,0 +1,24 @@
+Functional Requirements
+1. Login Flow
+    Automate login using valid credentials.
+    Verify successful login by checking for presence of dashboard or welcome message.
+
+2. Navigation to PIM Module
+    After login, perform a mouse hover over the PIM menu item.
+    Click on the PIM module to open it.
+
+3. Adding Employees
+    On the PIM page, click the Add Employee button.
+    Add 3 to 4 employees by filling out the required employee details (e.g., first name, last name, employee ID).
+    Submit the form to save each employee.
+
+4. Verifying Employees in Employee List
+    Navigate to the Employee List page within the PIM module.
+    Scroll or paginate through the employee list.
+    Locate each of the added employees by name.
+    Verify their presence and print "Name Verified" for each found employee.
+
+5. Logout Flow
+    Log out from the dashboard or main application page.
+    Verify successful logout by checking that the login page is displayed again.
+
